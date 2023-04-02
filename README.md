@@ -31,3 +31,6 @@ Here are the instructions for reproducing the results of this paper based on the
 2. Run the Test_Uc_Ais_FrRr_2006_2020() method to integrate and analyze the correlation between extreme precipitation and price changes (from 2006 to 2020).
 3. Run the Test_Uc_Ais_FrRr_2007_2021() method to integrate and analyze the correlation between extreme precipitation and price changes (from 2007 to 2021).
 4. Run the Test_Uc_Ais_FrRr_2008_2022() method to integrate and analyze the correlation between extreme precipitation and price changes (from 2008 to 2022).
+
+# V Model
+If you are interested in exploring the system implementation architecture further, you can refer to the following V Model diagram. In the diagram, we divide the system into two layers: the Entity layer and the Use Case layer. The Entity layer includes all reusable components developed during the development process, without implying any usage sequence. The Use Case layer, on the other hand, represents the application logic with usage sequences (flows) in various scenarios.
