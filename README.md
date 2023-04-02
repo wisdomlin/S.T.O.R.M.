@@ -38,3 +38,5 @@ Here are the instructions for reproducing the results of this paper based on the
 ```
 # V Model
 If you are interested in exploring the system implementation architecture further, you can refer to the following V Model diagram. In the diagram, we divide the system into two layers: the Entity layer and the Use Case layer. The Entity layer includes all reusable components developed during the development process, without implying any usage sequence. The Use Case layer, on the other hand, represents the application logic with usage sequences (flows) in various scenarios.
+
+![V Model](https://github.com/wisdomlin/STORM/blob/main/Figures/02_V_Model.png)
